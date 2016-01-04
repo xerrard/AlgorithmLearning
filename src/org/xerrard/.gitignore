@@ -1,0 +1,14 @@
+bin/
+
+gen/
+
+doc/
+
+.classpath
+
+.project
+
+.settings/
+
+project.properties
+
